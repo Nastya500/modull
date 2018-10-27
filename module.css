@@ -1,0 +1,57 @@
+/*Завдання2*/
+.static1{
+	width: 100px;
+	height: 100px;
+	background: green;
+	position:static;
+	
+}
+
+.static2{
+	width: 100px;
+	height: 100px;
+	background: red;
+	position:static;
+	margin-top: -50px;
+	margin-left: 40px;
+	
+}
+.static3{
+	width: 100px;
+	height: 100px;
+	background: blue;
+	position:static;
+	margin-left:60px;
+	margin-top: -70px;
+	
+}
+/*Завдання3*/
+.block{
+	width: 400px;
+	height: 200px;
+	background:#cecece;
+}
+.float1{
+	width: 100px;
+	height: 100px;
+	float:left;
+	background: blue;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+.float2{
+	width: 100px;
+	height: 100px;
+	float:left;
+	background:red;
+	margin-top: 50px;
+
+}
+.float3{
+	width: 100px;
+	height: 100px;
+	float:left;
+	background:green;
+	margin-top:50px;
+
+}
